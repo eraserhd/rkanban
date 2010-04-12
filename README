@@ -1,0 +1,5 @@
+
+This project provides R utilities for working with software kanban data.
+
+PlotCFD() is the only function provided at the moment.  See comments in 
+kanban.R for the data frame format that it expects.
